@@ -1,0 +1,28 @@
+/* .social .social-link .social-img{
+    width: 20px;
+    height: 60px;
+} */
+
+.top{
+    background-color:#36454f
+
+    ;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+    color: white;
+    height: 300px;
+    
+}
+
+.text-container{
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.social-img{
+    height: 50px;
+}
+.footer-img{
+    text-align: center;
+}
